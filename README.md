@@ -1,4 +1,4 @@
-# Tiktok Clone
+# Zoom Clone
 
 A clone Zoom App- Works on Android, iOS
 
