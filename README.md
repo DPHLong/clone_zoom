@@ -34,6 +34,6 @@ A clone Zoom App- Works on Android, iOS
 
 # Tech Used
 
-**Server**: Firebase Auth, Firebase Storage, Firebase Firestore, Google Sign In, Jitsi Meet
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore, Google-Sign-In, jitsi_meet_flutter_sdk
 
 **Client**: Flutter
